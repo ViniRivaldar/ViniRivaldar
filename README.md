@@ -23,6 +23,4 @@ Estou empolgado em lançar um canal no YouTube, proporcionando uma visão mais a
 
 
 
-![Vinicius Rivaldar Stats](https://github-readme-stats.vercel.app/api?username=ViniRivaldar&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniRivaldar&layout=compact)
+![Vinicius Rivaldar Stats](https://github-readme-stats.vercel.app/api?username=ViniRivaldar&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniRivaldar&layout=compact)
