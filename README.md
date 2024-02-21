@@ -5,7 +5,7 @@ Estou animado para um futuro próximo, onde espero atualizar esta bio como um me
 
 **Para me conhecer melhor:**
 
-<a href="www.linkedin.com/in/viniciusrivaldar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/viniciusrivaldar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 Estou empolgado em lançar um canal no YouTube, proporcionando uma visão mais aprofundada nos meus futuros projetos. Mal posso esperar para compartilhar minha jornada e experiências com vocês!
 
