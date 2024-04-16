@@ -1,5 +1,5 @@
 # Olá, eu sou Vinicius Rivaldar :raising_hand:
-Tenho 26 anos e estou focado em me tornar um desenvolvedor fullstack, com quase 6 meses de estudos dedicados! Estou mudando de carreira em busca de oportunidades mais valorosas e financeiramente recompensadoras. Atualmente, trabalho como ajudante de pedreiro para manter minha casa enquanto estudo.
+Tenho 26 anos e estou focado em me tornar um desenvolvedor fullstack, com quase 10 meses de estudos dedicados! Estou mudando de carreira em busca de oportunidades mais valorosas e financeiramente recompensadoras. Atualmente, trabalho como ajudante de pedreiro para manter minha casa enquanto estudo.
 
 Estou animado para um futuro próximo, onde espero atualizar esta bio como um membro valioso da sua equipe!
 
